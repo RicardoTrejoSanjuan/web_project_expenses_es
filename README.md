@@ -4,7 +4,7 @@ A simple system for managing and analyzing personal expenses using JavaScript
 
 ## 🚀 Live Demo
 
-👉 **[View Live Demo](https://ricardotrejosanjuan.github.io/web_project_portfolio_es/)**
+👉 **[View Live Demo](https://ricardotrejosanjuan.github.io/web_project_expenses_es/)**
 
 ![Expense Tracker Screenshot](./images/Screenshot.png)
 
